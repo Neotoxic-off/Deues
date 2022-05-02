@@ -1,0 +1,24 @@
+{
+    "size" : {
+        "minimum" : 5,
+        "maximum" : 8
+    },
+    "generations" : 50,
+    "duplications" : true,
+    "composition" : [
+        "c",
+        "v",
+        "c",
+        "c",
+        "v"
+    ],
+    "blacklist" : [
+        103,
+        102,
+        119,
+        120,
+        122
+    ],
+    "starter" : 0,
+    "ender" : 0
+}
